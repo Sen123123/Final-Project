@@ -1,0 +1,35 @@
+button {
+    height:60px;
+    width:60px;
+    margin:10px;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+#calculator {
+    width: 400px;
+    height: 650px;
+    border-radius: 10px;
+    margin: 20 auto;
+}
+.Empty {
+    background-color: transparent;
+    border: none;
+}
+#result {
+    height: 180px;
+    text-align:right ;
+    padding: 20px;
+}
+#history {
+    height:50px;
+    background-color: rgb(127, 158, 216);
+    border-radius: 10px;
+    font-size: 18px;
+}
+#output {
+    height:70px;
+    background-color: rgb(127, 158, 216);
+    border-radius: 10px;
+    font-size: 25px;
+}
